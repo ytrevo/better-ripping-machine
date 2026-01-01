@@ -1,4 +1,4 @@
-FROM https://github.com/SebAndBlocks/jelly-ripping-machine
+FROM https://github.com/sebandblocks/jelly-ripping-machine
 COPY install_makemkv.sh /install_makemkv.sh
 RUN chmod +x /install_makemkv.sh &&\
     bash /install_makemkv.sh
