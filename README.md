@@ -1,9 +1,13 @@
-# Better Ripping Machine
+Better Ripping Machine
 
-Cette version est une amélioration de Automatic Ripping Machine (ARM).  
-Ici je vais ajouter des scripts et des configurations pour automatiser le rip de disques optiques.
+This version is an enhancement of the Jelly Ripping Machine (JRM).
 
-## Objectif
-- Ajouter des fonctionnalités améliorées
-- Garder la compatibilité avec ARM
-- Faciliter l'utilisation via Docker et interface web
+Here I will add scripts and configurations to automate the ripping of optical discs.
+
+Objective
+
+Add improved features
+
+Maintain compatibility with ARM
+
+Facilitate usage via Docker and web interface
