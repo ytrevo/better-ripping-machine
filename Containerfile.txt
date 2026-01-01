@@ -1,0 +1,4 @@
+FROM docker.io/automaticrippingmachine/automatic-ripping-machine:2.20.5
+COPY install_makemkv.sh /install_makemkv.sh
+RUN chmod +x /install_makemkv.sh &&\
+    bash /install_makemkv.sh
